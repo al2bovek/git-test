@@ -1,0 +1,14 @@
+SHA256:o1T+lLhjV8gsF6KesGwemIShCaGTpejygdylhNMRtm8 aleksandr.dubovek@gmail.com
+
+The key's randomart image is:
++--[ED25519 256]--+
+|. .+.            |
+|o=+ o            |
+|Oo + .  o .      |
+|=*+ +  + = +     |
+|*ooo.Eo S B .    |
+|.o =.= o B .     |
+|  + = + + o      |
+|   o . . o       |
+|    .            |
++----[SHA256]-----+
